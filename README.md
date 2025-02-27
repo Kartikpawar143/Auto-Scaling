@@ -5,7 +5,7 @@
 - Click on Launch Template. <br>
 - Create the template as per shown in the screenshots. <br>
 - After creating template go to the Auto Scaling section and click on Auto Scaling Group. <br>
-- Create the Auto Scaling group using given steps. <br>
+- Create the Auto Scaling group using the following steps which are given in screenshots. <br>
 
 ![Screenshot 2025-02-25 211154](https://github.com/user-attachments/assets/ae7437cf-bc9d-4703-acac-32dab1ddf2f4)
 ![Screenshot 2025-02-25 211418](https://github.com/user-attachments/assets/08a129b6-658c-4483-8305-ff44feddd9a1)
