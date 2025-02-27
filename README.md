@@ -1,5 +1,5 @@
 # Auto-Scaling
-
+*STEPS*
 - For Auto Scaling we have to create a template. <br>
 - Search for EC2 and click on Launch Template in Instance option. <br>
 - Click on Launch Template. <br>
