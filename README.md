@@ -1,6 +1,10 @@
 # Auto-Scaling
 
--For Auto Scaling we have to create a template. <br>
+- For Auto Scaling we have to create a template. <br>
+- Search for EC2 and click on Launch Template in Instance option. <br>
+- Click on Launch Template. <br>
+- Create the template as per shown in the screenshots. <br>
+
 ![Screenshot 2025-02-25 211154](https://github.com/user-attachments/assets/ae7437cf-bc9d-4703-acac-32dab1ddf2f4)
 ![Screenshot 2025-02-25 211418](https://github.com/user-attachments/assets/08a129b6-658c-4483-8305-ff44feddd9a1)
 ![Screenshot 2025-02-25 211435](https://github.com/user-attachments/assets/9289a131-f81b-4fc4-83ae-21219bb97b2d)
@@ -20,3 +24,5 @@
 ![Screenshot 2025-02-26 005006](https://github.com/user-attachments/assets/cf3efd43-3724-4710-89da-6c25b8856e61)
 ![Screenshot 2025-02-26 005337](https://github.com/user-attachments/assets/c550ee41-9faa-41e4-84fd-6b8432f553e0)
 ![Screenshot 2025-02-26 005349](https://github.com/user-attachments/assets/7bed2cd8-6373-4af6-b45d-8caa64347392)
+
+# At the end Instances are created automaticaly as per the configurations. <br>
